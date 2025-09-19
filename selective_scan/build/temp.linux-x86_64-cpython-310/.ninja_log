@@ -1,0 +1,19 @@
+# ninja log v5
+1	15114	1730708657357611909	/data0/helizhi/downloads/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan_core_fwd.o	7ce3ab24f85a779a
+0	26820	1730708669069266199	/data0/helizhi/downloads/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan.o	eb451ec08063fd8c
+1	49460	1730708691680597565	/data0/helizhi/downloads/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan_core_bwd.o	bd4f3e936c1b0c36
+6	14286	1730708707052142158	/data0/helizhi/downloads/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusndstate/selective_scan_core_fwd.o	86cc4d0bc06ba191
+6	17836	1730708710612036594	/data0/helizhi/downloads/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusndstate/selective_scan_ndstate.o	6d722ea532c438ff
+6	48829	1730708741579116825	/data0/helizhi/downloads/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusndstate/selective_scan_core_bwd.o	159531f4d65e620c
+5	18530	1730708760614550170	/data0/helizhi/downloads/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_oflex.o	5bb6398f675a0314
+4	22437	1730708764506434199	/data0/helizhi/downloads/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	e3ce3781ae698ab5
+4	79365	1730708821416734138	/data0/helizhi/downloads/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	686c8a7d7043f8e5
+4	15628	1750994800786481015	/data0/helizhi/works/stroke_ncct_server/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan_core_fwd.o	2dd0416417665f7a
+4	20532	1750994805702338442	/data0/helizhi/works/stroke_ncct_server/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan.o	da1e45b30a99ea63
+4	50499	1750994835633470364	/data0/helizhi/works/stroke_ncct_server/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan_core_bwd.o	4cce71cc11cbd99
+4	15267	1750994851513009816	/data0/helizhi/works/stroke_ncct_server/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusndstate/selective_scan_core_fwd.o	6d99a8991c5b5c1c
+4	17904	1750994854164932903	/data0/helizhi/works/stroke_ncct_server/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusndstate/selective_scan_ndstate.o	9e500b71f9b8ffef
+4	50346	1750994886575992899	/data0/helizhi/works/stroke_ncct_server/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusndstate/selective_scan_core_bwd.o	e8ab6dd6fcf7edef
+5	19702	1750994906771407181	/data0/helizhi/works/stroke_ncct_server/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_oflex.o	381108f3aa8bb0b2
+5	23566	1750994910615295698	/data0/helizhi/works/stroke_ncct_server/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	9abe5a797dff19f7
+4	81739	1750994968765609191	/data0/helizhi/works/stroke_ncct_server/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	f1784da2dc6f8ec2
