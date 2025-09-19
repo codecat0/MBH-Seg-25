@@ -4,7 +4,8 @@
 Inference repository for the 5th solution in the second edition of the MICCAI MBH-Seg25 Challenge on multi-class brain hemorrhage segmentation from non-contrast CT scans.
 
 challenge website: [https://www.mbhseg.com/](https://www.mbhseg.com/)
-leaderboard: [https://docs.google.com/spreadsheets/d/1X3IB5eFjXerPNnl1gWEvjYJqcOzXiP6Ac8OCKVTwAzw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1X3IB5eFjXerPNnl1gWEvjYJqcOzXiP6Ac8OCKVTwAzw/edit?usp=sharing)
+
+leaderboard: [leaderboard](https://docs.google.com/spreadsheets/d/1X3IB5eFjXerPNnl1gWEvjYJqcOzXiP6Ac8OCKVTwAzw/edit?usp=sharing)
 
 ## Model Details
 ![](pic/model.png)
